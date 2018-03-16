@@ -1,0 +1,81 @@
+Delivery Overnight
+Albert Sudjana
+1148 White Cliff Drive, San Jose, California, 95129
+Date Ordered: 03/26/2017
+Red
+Yeezy V2
+Size: 7.0
+$120.00
+Order Number: 8
+
+Delivery Rush
+njdkwev ev
+234 ver, evg, revg, 234
+Date Ordered: 03/28/2017
+Grey
+Yeezy V2
+Size: 6.0
+$120.00
+Order Number: 10
+
+Delivery Rush
+Darren Sjafrudin
+1234 Way, San Jose, California, 97879
+Date Ordered: 03/26/2017
+Red
+Yeezy V2
+Size: 7.0
+$120.00
+Order Number: 2
+
+Delivery Rush
+Paul Nguyen
+345 Street, New York, New York, 12345
+Date Ordered: 03/26/2017
+Black
+Lebron X
+Size: 8.0
+$80.00
+Order Number: 4
+
+Delivery Rush
+Darren Sjafrudin
+1234 Way, San Jose, California, 97879
+Date Ordered: 03/26/2017
+Grey
+Ultraboost
+Size: 10.0
+$125.00
+Order Number: 5
+
+Delivery Rush
+Jennifer Parrish
+222 West Elm St, San Jose, CA, 98765
+Date Ordered: 03/28/2017
+Blue
+Air Presto
+Size: 5.0
+$160.00
+Order Number: 9
+
+Delivery Standard
+Aaron Wong
+33 South Street, Irvine, California, 34567
+Date Ordered: 03/26/2017
+Red
+Yeezy V2
+Size: 8.0
+$120.00
+Order Number: 6
+
+Delivery Standard
+Albert Sudjana
+1148 White Cliff Drive, San Jose, California, 95129
+Date Ordered: 03/26/2017
+Grey
+Yeezy V2
+Size: 0.0
+$120.00
+Order Number: 7
+
+
