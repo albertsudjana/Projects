@@ -1,16 +1,3 @@
-/*
- * BST.h
- *
- *  Created on: Mar 25, 2017
- *      Author: Nadya Audrey
- */
-/*
- * BST.h
- *
- *  Created on: Feb 14, 2017
- *      Author: Nadya Audrey
- */
-
 #ifndef BST_H_
 #define BST_H_
 #include <assert.h>
